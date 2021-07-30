@@ -1,2 +1,2 @@
 # Multi-Asset_Market_Ecology
-An investigation of how the growth in passive investments affect price discovery of individual stocks on the market
+A model simulation of an artificial stock market to investigate how the growth in passive investment strategies affects price discovery for the individual stocks
